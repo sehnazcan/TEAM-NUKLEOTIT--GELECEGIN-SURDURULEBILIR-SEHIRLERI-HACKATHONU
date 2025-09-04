@@ -43,7 +43,10 @@ Nükleotit AI ile hedefimiz, **TÜİK’in "Sağlık ve Sosyal Koruma" verileri 
 - 📚 **Google Scholar üzerinden otomatik literatür önerisi**  
 - 🧬 **Nadir hastalıklara özel tanı destek sistemi**  
 - 📊 **Yatırım önceliklerini destekleyecek şekilde, bölgesel analiz çıktıları**  
-- 🌐 **İl/ilçe bazlı sağlık yatırım kararlarında kullanıma uygun çıktı tasarımı**  
+- 🌐 **İl/ilçe bazlı sağlık yatırım kararlarında kullanıma uygun çıktı tasarımı**
+
+[![Nükleotit AI Demo](https://img.youtube.com/vi/AbdixRPg0bE/0.jpg)](https://youtu.be/AbdixRPg0bE)
+
 
 ---
 
