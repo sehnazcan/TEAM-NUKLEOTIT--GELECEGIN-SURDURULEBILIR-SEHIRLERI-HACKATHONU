@@ -47,6 +47,9 @@ Nükleotit AI ile hedefimiz, **TÜİK’in "Sağlık ve Sosyal Koruma" verileri 
 
 [![Nükleotit AI Kapak Görseli](https://github.com/sehnazcan/TEAM-NUKLEOTIT--GELECEGIN-SURDURULEBILIR-SEHIRLERI-HACKATHONU/blob/main/frontend/photo.jpg?raw=true)](https://youtu.be/AbdixRPg0bE)
 
+🔗 Tanıtım videosunu izlemek için yukarıdaki görsele tıklayın.
+
+
 
 
 ---
