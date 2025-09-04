@@ -14,6 +14,9 @@
 
 **EPFL’nin Meditron-70B** adlı sağlık odaklı büyük dil modeli temel alınarak, Türkçe sağlık verileriyle özel olarak uyarlanmış; bu yapı, hem bireysel sağlık çalışanlarına hem de sağlık yatırımı yapan kamu/özel aktörlere stratejik katkı sunmayı hedefler.
 
+![Proje Ekran Görüntüsü](https://github.com/sehnazcan/TEAM-NUKLEOTIT--GELECEGIN-SURDURULEBILIR-SEHIRLERI-HACKATHONU/blob/main/frontend/sehnaz_photo_hack.png?raw=true)
+
+
 ---
 
 ## 🎯 Problem Tanımı
