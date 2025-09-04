@@ -45,8 +45,8 @@ Nükleotit AI ile hedefimiz, **TÜİK’in "Sağlık ve Sosyal Koruma" verileri 
 - 📊 **Yatırım önceliklerini destekleyecek şekilde, bölgesel analiz çıktıları**  
 - 🌐 **İl/ilçe bazlı sağlık yatırım kararlarında kullanıma uygun çıktı tasarımı**
 
-[![Nükleotit AI Demo](![Kapak Görseli](https://github.com/sehnazcan/TEAM-NUKLEOTIT--GELECEGIN‑SURDURULEBILIR‑SEHIRLERI‑HACKATHONU/blob/main/frontend/photo.jpg?raw=true)
-)](https://youtu.be/AbdixRPg0bE)
+[![Nükleotit AI Kapak Görseli](https://github.com/sehnazcan/TEAM-NUKLEOTIT--GELECEGIN-SURDURULEBILIR-SEHIRLERI-HACKATHONU/blob/main/frontend/photo.jpg?raw=true)](https://youtu.be/AbdixRPg0bE)
+
 
 
 ---
